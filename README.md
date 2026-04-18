@@ -14,7 +14,6 @@ Official implementation of **"SEGAN: A Semantic-Enhanced Generative Adversarial 
 - [Key Features](#key-features)
 - [Citation](#citation)
 - [License](#license)
-- [Contact](#contact)
 
 ---
 
@@ -89,8 +88,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Hardware Requirements**: Training SEGAN on the full dataset requires approximately 16 GB GPU memory. For lower memory configurations, reduce batch size or sequence length.
 - **Inference Time**: The reported 6.8 ms inference time was measured on an NVIDIA RTX 3090 GPU. Performance may vary on different hardware.
 
----
-
-**Last Updated**: April 2026
-
-如果您需要调整某些部分或添加其他内容，请随时告诉我！
